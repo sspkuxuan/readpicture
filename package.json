@@ -1,0 +1,9 @@
+{
+  "name": "web1",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "koa": "^2.5.3",
+    "koa-route": "^3.2.0"
+  }
+}
